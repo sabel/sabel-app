@@ -1,0 +1,3 @@
+[submodule "Sabel"]
+   path = Sabel
+   url = git://github.com/sabel/Sabel.git
