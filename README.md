@@ -1,11 +1,10 @@
-sabel
-=========
+# Sabel PHP Framework
 
-quick installation
-=======================
+Sabel is a full stack PHP MVC Framework for lightweight web development.
 
-curl install.sabelphp.com | sh
+## quick installation
 
-cd ~/Sites
 
-sakle create myapp
+	curl install.sabelphp.com | sh
+	cd ~/Sites
+	sakle create myapp
