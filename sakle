@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+
+echo "sabel command use for build application. now under development\n";
